@@ -19,10 +19,10 @@
       "iframeSrc": "https://ebdc-cricketstan.wasmer.app/player.php?id=willowusa"
     },
     {
-      "id": "prime-hin",
-      "name": "Prime Hindi",
+      "id": "shoq",
+      "name": "English WWC",
       "type": "iframe",
-      "iframeSrc": "https://hff-eight.vercel.app/"
+      "iframeSrc": "https://channel-07.vercel.app/"
     },
     {
       "id": "prime-eng",
