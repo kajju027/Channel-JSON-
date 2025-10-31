@@ -1,10 +1,10 @@
 {
   "iframes": [
     {
-      "id": "hindi",
-      "name": "Star Sports Hindi",
+      "id": "S-CUP",
+      "name": "Super Cup Live 💥",
       "type": "iframe",
-      "iframeSrc": "https://www.livereacting.com/tools/hls-player-embed?url=https://foxstream.pages.dev/h.m3u8"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20khel"
     },
     {
       "id": "tnt",
