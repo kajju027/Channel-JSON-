@@ -67,10 +67,10 @@
       "iframeSrc": "https://cricketstan.github.io/Channel-14/"
     },
     {
-      "id": "fox-hd",
-      "name": "Fox Cricket",
+      "id": "PKL",
+      "name": "Pro Kabaddi FINAL 🏆",
       "type": "iframe",
-      "iframeSrc": "https://www.livereacting.com/tools/hls-player-embed?url=https://foxstream.pages.dev/e.m3u8"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20HINDI%20SD"
     },
      {
       "id": "astro",
