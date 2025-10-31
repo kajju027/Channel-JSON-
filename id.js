@@ -4,7 +4,7 @@
       "id": "hindi",
       "name": "Star Sports Hindi",
       "type": "iframe",
-      "iframeSrc": "https://cricketstan.github.io/Channel-13/"
+      "iframeSrc": "https://www.livereacting.com/tools/hls-player-embed?url=https://foxstream.pages.dev/h.m3u8"
     },
     {
       "id": "tnt",
@@ -16,19 +16,25 @@
       "id": "willow",
       "name": "Willow",
       "type": "iframe",
-      "iframeSrc": "https://ebdc-cricketstan.wasmer.app/player.php?id=willowusa"
+      "iframeSrc": "https://cricketstan.github.io/Willow-Cricbuzz-/"
     },
     {
-      "id": "shoq",
-      "name": "English WWC",
+      "id": "prime-hin",
+      "name": "Prime Hindi",
       "type": "iframe",
-      "iframeSrc": "https://channel-07.vercel.app/"
+      "iframeSrc": "https://prime-english.vercel.app/"
     },
     {
       "id": "prime-eng",
       "name": "Prime English",
       "type": "iframe",
-      "iframeSrc": "https://prime-english.vercel.app/"
+      "iframeSrc": "https://hff-eight.vercel.app/"
+    },
+    {
+      "id": "fox-hindi",
+      "name": "Fox Hindi",
+      "type": "iframe",
+      "iframeSrc": "https://cricketstan.github.io/Fox-Cricket-/"
     },
     {
       "id": "willow-sports",
@@ -41,6 +47,61 @@
       "name": "ICC TV",
       "type": "iframe",
       "iframeSrc": "https://cricketstan.github.io/Sony-Liv/"
-     }
+     },
+     {
+      "id": "fox",
+      "name": "Fox Cricket 501",
+      "type": "iframe",
+      "iframeSrc": "https://fox-501-allrounder745.onrender.com/"
+     },
+    {
+      "id": "ios",
+      "name": "Appel Wale",
+      "type": "iframe",
+      "iframeSrc": "https://cricketstan.github.io/ios/"
+    },
+    {
+      "id": "eng",
+      "name": "Star Sports 1",
+      "type": "iframe",
+      "iframeSrc": "https://cricketstan.github.io/Channel-14/"
+    },
+    {
+      "id": "fox-hd",
+      "name": "Fox Cricket",
+      "type": "iframe",
+      "iframeSrc": "https://www.livereacting.com/tools/hls-player-embed?url=https://foxstream.pages.dev/e.m3u8"
+    },
+     {
+      "id": "astro",
+      "name": "Astro",
+      "type": "iframe",
+      "iframeSrc": "https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=844"
+    },
+    {
+      "id": "Foxx",
+      "name": "Fox 🦊 हिंदी ",
+      "type": "iframe",
+      "iframeSrc": "https://channel-07.vercel.app/"
+    },
+  {
+      "id": "cwc",
+      "name": "cwc",
+      "type": "iframe",
+      "iframeSrc": "https://cricketstan.github.io/cwc/"
+    },
+    {
+      "id": "tnt-1",
+      "name": "TNT Sports 1",
+      "type": "iframe",
+      "iframeSrc": "https://cricketstan.github.io/TNT-1/"
+    },
+    {
+      "id": "prime-nz",
+      "name": "PRIME",
+      "type": "iframe",
+      "iframeSrc": "https://hff-eight.vercel.app/"
+    }
+  
   ]
 }
