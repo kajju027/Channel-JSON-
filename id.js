@@ -1,10 +1,10 @@
 {
   "iframes": [
     {
-      "id": "S-CUP",
-      "name": "Super Cup Live 💥",
+      "id": "Jio-Hostar",
+      "name": "CWC FINAL 🏆🫅",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20khel"
+      "iframeSrc": "https://channel-07.vercel.app/"
     },
     {
       "id": "tnt",
