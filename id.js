@@ -1,7 +1,7 @@
 {
   "iframes": [
     {
-      "id": "Jio-Hostar",
+      "id": "Jio",
       "name": "CWC FINAL 🏆🫅",
       "type": "iframe",
       "iframeSrc": "https://channel-07.vercel.app/"
